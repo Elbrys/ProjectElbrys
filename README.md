@@ -1,3 +1,3 @@
 # ProjectElbrys
-[Wiki](https://github.com/Elbrys/ProjectElbrys/wiki) gathering info related to Opendaylight.
+Moved to:  https://github.com/Elbrys/SDN-Developer-Lab
 
